@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/marshmll">
-  <img width:"50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marshmll&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&layout=compact&langs_count=7&theme=radical"/>
+  <img width:"50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marshmll&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
