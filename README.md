@@ -1,4 +1,4 @@
-<h1>Olá! Me chamo Renan! \o/</h1>
+<h1>Hello! Welcome to my GitHub!</h1>
 
  <div>
   <a href="https://github.com/marshmll">
@@ -12,6 +12,9 @@
     <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Renan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Renan-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+   <img align="center" alt="Renan-C" height="40" width="36" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+    <img align="center" alt="Renan-C++" height="40" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+   <img align="center" alt="Renan-Python" height="40" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
   </div>
 </div>
   
