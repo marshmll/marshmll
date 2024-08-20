@@ -11,8 +11,8 @@
 
 **Data and applications**
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=993399)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=5555FF)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -37,9 +37,18 @@
 
 <br/>
 
-<a href="https://github.com/marshmll" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshmll&theme=monokai&show_icons=true" />
-</a>
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:10px">
+                <img src="https://github-readme-stats.vercel.app/api?username=marshmll&theme=monokai&show_icons=true" />
+            </td>
+            <td style="padding:10px">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact" />
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Contact me
 
