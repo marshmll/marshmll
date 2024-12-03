@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies and developing software engineering solutions
 - 🎓 Studying Computer Science in the Pontifical Catholic University of Paraná (PUCPR), Brazil
 - 💼 Free-time game engine and low-level developer
-- 🌱 Learning about Database Architecture, Computer Networking and x86-64 Operating Systems Development
+- 🌱 Learning about MOS6502 CPU architecture
 
 ## My Skills
 
@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=6E5AC7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=AAFFAA)
