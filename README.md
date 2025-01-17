@@ -3,9 +3,9 @@
 ## About me
 
 - 🤔 Exploring new technologies and developing software engineering solutions
-- 🎓 Studying Computer Science in the Pontifical Catholic University of Paraná (PUCPR), Brazil
+- 🎓 Studying Computer Science (3/8) in the Pontifical Catholic University of Paraná (PUCPR), Brazil
 - 💼 Free-time game engine and low-level developer
-- 🌱 Learning about MOS6502 CPU architecture
+- 🌱 Studying procedural structures generation and Application Protocols.
 
 ## My Skills
 
