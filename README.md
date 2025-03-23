@@ -9,7 +9,7 @@
 
 ## My Skills
 
-**Data and applications**
+**Programming Languages, API's and Frameworks**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=993399)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=5555FF)
@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=AAFFAA)
+![Vulkan](https://img.shields.io/badge/-Vulkan-333333?style=flat&logo=vulkan&logoColor=FF2222)
 
 **DevOps**
 
@@ -31,9 +32,10 @@
 
 **Development tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vscode&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=993399)
-![Vim](https://img.shields.io/badge/-VIm-333333?style=flat&logo=vim)
+![QT Creator](https://img.shields.io/badge/-Qt%20Creator-333333?style=flat&logo=qt-creator&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 <br/>
