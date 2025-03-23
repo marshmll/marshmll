@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies and developing software engineering solutions
 - 🎓 Studying Computer Science (3/8) in the Pontifical Catholic University of Paraná (PUCPR), Brazil
 - 💼 Free-time game engine and low-level developer
-- 🌱 Researching Computer Vision and AI solutions in Robotics
+- 🌱 Researching Graphics Programming and GPU optimization
 
 ## My Skills
 
