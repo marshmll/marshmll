@@ -3,7 +3,8 @@
 ## About me
 
 - 🤔 Exploring new technologies and developing software engineering solutions
-- 🎓 Studying Computer Science (3/8) in the Pontifical Catholic University of Paraná (PUCPR), Brazil
+- 🎓 Studying Computer Science (4/8) in the Pontifical Catholic University of Paraná (PUCPR), Brazil
+- 👨🏻‍💻 Backend Engineer and Data Analyst at Ubivis
 - 💼 Free-time game engine and low-level developer
 - 🌱 Researching Graphics Programming and GPU optimization
 
@@ -22,7 +23,9 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=AAFFAA)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=7777FF)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-333333?style=flat&logo=vulkan&logoColor=FF2222)
+![Hasura](https://img.shields.io/badge/-Hasura-333333?style=flat&logo=hasura&logoColor=AAFFAA)
 
 **DevOps**
 
