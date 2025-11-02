@@ -1,63 +1,100 @@
-# :wave: Welcome to my GitHub!
+# 💻 Hi there! I'm Renan Andrade 
 
-## About me
+**Computer Science Student | Backend & AI Engineer | Low-Level & Graphics Enthusiast**
 
-- 🤔 Exploring new technologies and developing software engineering solutions
-- 🎓 Studying Computer Science (4/8) in the Pontifical Catholic University of Paraná (PUCPR), Brazil
-- 👨🏻‍💻 Backend Engineer and Data Analyst at Ubivis
-- 💼 Free-time game engine and low-level developer
-- 🌱 Researching Graphics Programming and GPU optimization
+---
 
-## My Skills
+## 🚀 About Me
 
-**Programming Languages, API's and Frameworks**
+- 🎓 **Computer Science Student** (4/8) at Pontifical Catholic University of Paraná (PUCPR), Brazil
+- 💼 **Backend Engineer & Data Analyst** at Ubivis - Building industrial AI solutions and high-performance data systems
+- 🤖 **AI & RAG Specialist** - Developing intelligent systems for industrial data analysis and natural language insights
+- 🎮 **Passionate Low-Level Developer** - Creating game engines, graphics applications, and OS prototypes in free time
+- 🔬 **Researcher** in Graphics Programming, GPU Optimization, and Cyber-Physical Systems
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=993399)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=5555FF)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=6E5AC7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=AAFFAA)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=7777FF)
-![Vulkan](https://img.shields.io/badge/-Vulkan-333333?style=flat&logo=vulkan&logoColor=FF2222)
-![Hasura](https://img.shields.io/badge/-Hasura-333333?style=flat&logo=hasura&logoColor=AAFFAA)
+---
 
-**DevOps**
+## 🛠️ Technical Expertise
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### **Artificial Intelligence & Data Systems**
+![RAG](https://img.shields.io/badge/-Retrieval_Augmented_Generation-333333?style=flat&logo=ai&logoColor=FF6B6B)
+![LLMs](https://img.shields.io/badge/-Large_Language_Models-333333?style=flat&logo=openai&logoColor=00A67E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
-**Development tools**
+**Industrial AI • RAG Systems • Data Analytics • Query Optimization • Real-time Dashboards**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vscode&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=993399)
-![QT Creator](https://img.shields.io/badge/-Qt%20Creator-333333?style=flat&logo=qt-creator&logoColor=007ACC)
-![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+### **Backend & Cloud Development**
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=326CE5)
 
-<br/>
+**Microservices • REST/GraphQL APIs • Cloud Architecture • High-Performance Systems**
 
-<div id="image-table" align="center">
-    <table>
-        <tr>
-            <td style="padding:10px">
-                <img src="https://github-readme-stats.vercel.app/api?username=marshmll&theme=monokai&show_icons=true" />
-            </td>
-            <td style="padding:10px">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact" />
-            </td>
-        </tr>
-    </table>
+### **Cyber-Physical Systems & IoT**
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=espressif&logoColor=FF0000)
+![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=eclipse-mosquitto&logoColor=3C5280)
+
+**Embedded Systems • Real-time Monitoring • Industrial Automation • Security Protocols**
+
+### **Graphics & Low-Level Development**
+![Vulkan](https://img.shields.io/badge/-Vulkan-333333?style=flat&logo=vulkan&logoColor=AC162C)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl&logoColor=5586A4)
+![Assembly](https://img.shields.io/badge/-x86_Assembly-333333?style=flat&logo=intel&logoColor=0071C5)
+
+**Game Engines • GPU Programming • OS Development • Performance Optimization**
+
+---
+
+## 📊 Featured Projects & Achievements
+
+### **Industrial AI & Analytics**
+- Built **RAG-powered backends** for factory floor data analysis using IoT streams
+- Developed **real-time OEE dashboards** for automotive, cosmetic, and food industries
+- **Optimized SQL queries** reducing latency from **minutes to milliseconds** for million-record aggregations
+
+### **High-Performance Systems**
+- Created **custom operating system prototypes** inspired by UNIX architecture
+- Developed **graphics applications** with Vulkan and OpenGL for advanced rendering
+- Implemented **secure IoT solutions** with TLS, JWT, and embedded security protocols
+
+---
+
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<table>
+  <tr>
+    <td style="padding:10px">
+      <img src="https://github-readme-stats.vercel.app/api?username=marshmll&theme=monokai&show_icons=true&hide_border=true&bg_color=00000000" />
+    </td>
+    <td style="padding:10px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marshmll&theme=monokai&hide_border=true&background=00000000)
+
 </div>
 
-## Contact me
+---
 
-[![Linkedin](https://img.shields.io/badge/-Renan%20Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-oliveira-andrade/)](https://www.linkedin.com/in/renan-oliveira-andrade/)
-[![Gmail Badge](https://img.shields.io/badge/-renandasilvaoliveiraandrade@gmail.com-EE2244?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandasilvaoliveiraandrade@gmail.com)](mailto:renandasilvaoliveiraandrade@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/marshmll?label=follow&style=social)](https://github.com/marshmll)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-Renan_Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-oliveira-andrade/)
+[![Email](https://img.shields.io/badge/-renandasilvaoliveiraandrade@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renandasilvaoliveiraandrade@gmail.com)
+[![GitHub](https://img.shields.io/badge/-marshmll-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marshmll)
+
+---
+
+<div align="center">
+
+**⚡ Building the future, one line of code at a time**
+
+</div>
