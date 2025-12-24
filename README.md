@@ -68,18 +68,11 @@
 
 ## 📈 GitHub Analytics
 
-<table>
-  <tr>
-    <td style="padding:10px">
-      <img src="https://github-readme-stats.vercel.app/api?username=marshmll&theme=monokai&show_icons=true&hide_border=true&bg_color=00000000" />
-    </td>
-    <td style="padding:10px">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" />
-    </td>
-  </tr>
-</table>
+[![Marshmll's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/marshmll)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marshmll&theme=monokai&hide_border=true&background=00000000)
+[![Marshmll's GitHub Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/marshmll)
+
+![Marshmll's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)
 
 </div>
 
