@@ -68,11 +68,18 @@
 
 ## 📈 GitHub Analytics
 
-[![Marshmll's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/marshmll)
+<table>
+  <tr>
+    <td style="padding:10px">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)" />
+    </td>
+    <td style="padding:10px">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-[![Marshmll's GitHub Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/marshmll)
-
-![Marshmll's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=marshmll&theme=monokai&layout=compact&hide_border=true&bg_color=00000000&langs_count=6)
+![Marshmll's GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=marshmll&theme=monokai&layout=compact&bg_color=00000000&langs_count=6)
 
 </div>
 
