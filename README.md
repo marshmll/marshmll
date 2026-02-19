@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** (4/8) at Pontifical Catholic University of Paraná (PUCPR), Brazil
+- 🎓 **Computer Science Student** (5/8) at Pontifical Catholic University of Paraná (PUCPR), Brazil
 - 💼 **Backend Engineer & Data Analyst** at Ubivis - Building industrial AI solutions and high-performance data systems
 - 🤖 **AI & RAG Specialist** - Developing intelligent systems for industrial data analysis and natural language insights
 - 🎮 **Passionate Low-Level Developer** - Creating game engines, graphics applications, and OS prototypes in free time
